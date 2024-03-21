@@ -8,3 +8,8 @@
   ```bash
   pyinstaller --onefile --noconsole --name your_exe_name --add-data "your_tkdnd_path" --icon=your_ico.ico your_python_file.py
   ```
+4. 运行项目
+
+   ```bash
+   nb run
+   ```
