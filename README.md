@@ -15,4 +15,6 @@
 
 这只是个简单的界面程序，它缺少一个主程序，你需要将kanimalGUI和[kanimal](https://github.com/skairunner/kanimal-SE/releases/tag/1.3.26)放在同一文件夹内，如果有疑问的话，你也可以查看[kanimal-SE](https://github.com/skairunner/kanimal-SE)他的运行思路
 
-![](Assets/Video.mp4)
+https://github.com/ChiYuKe/ONI-Kanimal_GUI/assets/114650032/419c9220-e1ce-4836-8d03-3b9972c3aba5
+
+
